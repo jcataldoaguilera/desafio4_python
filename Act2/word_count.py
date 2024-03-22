@@ -4,8 +4,11 @@
 # RLAB-23-02-09-0044-2
 #
 
+# Librerias
+from sys import argv
+
 # Importando el texto:
-with open("lorem_ipsum.txt", "r") as file:
+with open(str(argv[1]), "r") as file:
     texto=file.read()
 
 # separando texto en caracteras
