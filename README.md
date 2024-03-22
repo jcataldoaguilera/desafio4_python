@@ -12,7 +12,7 @@ el máximo de puntaje y enfocar bien los esfuerzos.
 Crea los siguientes programas:
 
 
-## 1. Crear un archivo conversiones.py y una estructura de datos apropiada que permita ingresar tasas de conversión. 
+### 1. Crear un archivo conversiones.py y una estructura de datos apropiada que permita ingresar tasas de conversión. 
 Las distintas tasas de conversión se deben ingresar mediante sys.argv en el siguiente orden:
 Sol, Peso Argentino, Dólar Americano. (4 Puntos)
 
@@ -39,7 +39,7 @@ Los 10000 pesos equivalen a:
 13.0 Dólares
 ```
 
-## 2. El texto lorem ipsum es un texto de prueba que se utiliza para demostrar distintas tipografías además de usarse para rellenar espacios que requieran largos textos.
+### 2. El texto lorem ipsum es un texto de prueba que se utiliza para demostrar distintas tipografías además de usarse para rellenar espacios que requieran largos textos.
 
 ¿Cuántas palabras componen este texto? (3 Puntos)
 
@@ -70,7 +70,7 @@ El número de caracteres distintos es: 40
 El número de palabras distintas es: 243
 ```
 
-## 3. Se provee del archivo recordatorios.py que incluye una serie de eventos que quieren ser recordados por usted.
+### 3. Se provee del archivo recordatorios.py que incluye una serie de eventos que quieren ser recordados por usted.
 
 El formato de estos recordatorios son una fecha (año-mes-día), una hora y una descripción del evento. (3 Puntos)
 
